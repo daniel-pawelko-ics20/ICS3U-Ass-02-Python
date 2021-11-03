@@ -17,7 +17,7 @@ def main():
     area = round((5 / 2) * pow(length, 2) * (sqrt(5 + 2 * sqrt(5))), 2)
 
     # output
-    print(f"Area is {area} mm2")
+    print(f"Area is {area} mm²")
 
     # output finished
     print("")
